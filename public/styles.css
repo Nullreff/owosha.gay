@@ -1,0 +1,11 @@
+body, html {
+    height: 100%;
+}
+
+.owosha {
+    background-image: url("safety_wuff_badge.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
